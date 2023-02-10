@@ -13,6 +13,7 @@
 
 Hi, I'm Victor, a French developer and IT enjoyer. Currently studying at [Epitech](https://www.epitech.eu/), I love to work on different kinds of projects, always learning new stuff and discovering new technologies.
 
+#
 
 ### 🧰 Languages and Technologies
 <br />
@@ -30,6 +31,8 @@ Hi, I'm Victor, a French developer and IT enjoyer. Currently studying at [Epitec
 </p>
 <br />
 <br />
+
+#
 
 #
 
