@@ -11,11 +11,11 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-Hi, I'm Victor, a French developer and IT enjoyer. Currently studying at [Epitech][https://www.epitech.eu/], I love to work on different kinds of projects, always learning new stuff and discovering new technologies.
+Hi, I'm Victor, a French developer and IT enjoyer. Currently studying at [Epitech](https://www.epitech.eu/), I love to work on different kinds of projects, always learning new stuff and discovering new technologies.
 
 
 ### 🧰 Languages and Technologies
-\
+<br />
 <p align="center">
     <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
@@ -28,7 +28,7 @@ Hi, I'm Victor, a French developer and IT enjoyer. Currently studying at [Epitec
     <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </p>
-\
-\
+<br />
+<br />
 ### 📊 Stats
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mthvictor&show_icon=true&theme=github_dark)
