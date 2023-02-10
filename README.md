@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=16346C&center=true&vCenter=true&width=435&lines=Victor+Mathon" alt="mthvictor"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=58a4ff&center=true&vCenter=true&width=435&lines=Victor+Mathon" alt="mthvictor"/>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=16346C&center=true&vCenter=true&width=500&lines=Developer (Software%2C+Backend+and+Security);IT+enjoyer+%26+Student+at+EPITECH;Always+learning+new+stuff;6%2B+years+of+coding" alt="mthvictor"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58a4ff&center=true&vCenter=true&width=500&lines=Developer (Software%2C+Backend+and+Security);IT+enjoyer+%26+Student+at+EPITECH;Always+learning+new+stuff;6%2B+years+of+coding" alt="mthvictor"/>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/mthvictor/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/pV8WVin.png"/></a>
