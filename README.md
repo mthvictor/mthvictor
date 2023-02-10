@@ -16,7 +16,6 @@ Hi, I'm Victor, a French developer and IT enjoyer. Currently studying at [Epitec
 #
 
 ### 🧰 Languages and Technologies
-<br />
 <p align="center">
     <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
@@ -29,7 +28,6 @@ Hi, I'm Victor, a French developer and IT enjoyer. Currently studying at [Epitec
     <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </p>
-<br />
 
 #
 
