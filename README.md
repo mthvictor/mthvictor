@@ -5,9 +5,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58a4ff&center=true&vCenter=true&width=500&lines=Developer (Software%2C+Backend+and+Security);IT+enjoyer+%26+Student+at+EPITECH;Always+learning+new+stuff;6%2B+years+of+coding" alt="mthvictor"/>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mthvictor/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/pV8WVin.png"/></a>
+  <a href="https://www.linkedin.com/in/mthvictor/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/klL5AD5.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://mathonvictor.me"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/xv8X8b0.png"/></a>
+  <a href="https://mathonvictor.me"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/BB1a1KI.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:mathonvictor@pm.me"><img width="32px" alt="Mail" title="Mail" src="https://i.imgur.com/tkbFfol.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
