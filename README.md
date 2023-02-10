@@ -30,7 +30,6 @@ Hi, I'm Victor, a French developer and IT enjoyer. Currently studying at [Epitec
     <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </p>
 <br />
-<br />
 
 #
 
