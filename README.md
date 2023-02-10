@@ -31,4 +31,4 @@ Hi, I'm Victor, a French developer and IT enjoyer. Currently studying at [Epitec
 <br />
 <br />
 ### 📊 Stats
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mthvictor&show_icon=true&theme=github_dark)
+[Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mthvictor&show_icon=true&theme=github_dark)
